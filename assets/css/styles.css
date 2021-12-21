@@ -225,22 +225,26 @@ ul {
 	padding-left: 24px; 
 }
 
-.first-color {
+.purple {
 	color: #ac78c2;
 }
-.second-color {
+.white {
 	color: #c5c8c6;
 }
 
-.third-color {
-	color: #5888ca;
+.blue {
+	color: #5f8fd1;
 }
 
-.fourth-color {
+.royalblue {
+    color: #325b94;
+}
+
+.orange {
 	color: #f0c674;
 }
 
-.fifth-color {
+.yellow {
 	color: #b5bd68;
 }
 
