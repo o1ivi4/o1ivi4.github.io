@@ -245,6 +245,10 @@ ul {
 	color: #f0c674;
 }
 
+.orange > a {
+	color: #f0c674 !important;
+}
+
 .yellow {
 	color: #e9e777;
 }
@@ -405,6 +409,7 @@ ul {
 
 #footer {
 	height: 6em;
+	width: 100%;
 	text-align: center;
 	background-color: #F0F0F0;
 }
