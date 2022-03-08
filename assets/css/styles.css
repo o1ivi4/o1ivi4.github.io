@@ -34,6 +34,25 @@ a:hover {
 	color: #8d8d8d;
 }
 
+.container {
+	display: flex; 
+	align-items: center; 
+	justify-content: center;
+	align-content: center;
+}
+
+.row {
+	flex-direction: row;
+}
+
+.column {
+	flex-direction: column;
+}
+
+.page-content {
+	width:100%;
+}
+
 /**Navbar**/
 #nav {
 	left: 0%;
